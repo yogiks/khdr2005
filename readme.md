@@ -1,1 +1,1 @@
-Visualising data of KHDR 2005
+Visualising KHDR 2005 data
